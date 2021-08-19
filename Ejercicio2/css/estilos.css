@@ -1,0 +1,53 @@
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #ECEFF1;
+}
+
+.contenedor{
+    width: 85%;
+    border-width: 1;
+    border-style: solid;
+    border-color:#fff  ;
+    margin: auto,auto,auto,auto;
+    background-color: #fff;
+    overflow: auto;
+    border-radius: 10px;
+}
+
+.menu{
+    padding-top: 1px;
+    padding-bottom: 1px;
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color:  #363636;
+    
+}
+
+.banner{
+    width: 100%;
+    height: auto;
+}
+
+.seccion{
+    padding: 5px,5px,5px,5px;
+    margin: 10px,10px,10px,10px;
+    border-style: solid;
+    border-color: #e0e0e0;
+    background-color:  #F5F5F5;
+    overflow: auto;
+
+}
+
+.item{
+    margin: 8px,8px,8px,8px;
+    width: 220px;
+    height: 310px;
+    border-radius: 5px;
+    float: left;
+}
+
+.poster{
+    width: 220px;
+    height: 310px;
+}
