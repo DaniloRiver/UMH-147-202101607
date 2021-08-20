@@ -18,14 +18,15 @@ body{
 .menu{
     padding-top: 1px;
     padding-bottom: 1px;
-    padding-left: 15px;
-    padding-right: 15px;
+    padding-left: 2px;
+    padding-right: 2px;
     background-color:  #363636;
+    color: white;
     
 }
 
 .banner{
-    width: 100%;
+    width: 150%;
     height: auto;
 }
 
@@ -36,6 +37,7 @@ body{
     border-color: #e0e0e0;
     background-color:  #F5F5F5;
     overflow: auto;
+    color: black;
 
 }
 
@@ -48,6 +50,6 @@ body{
 }
 
 .poster{
-    width: 220px;
+    width: 200px;
     height: 310px;
 }
