@@ -3,8 +3,20 @@
     padding-bottom: 1px;
     padding-left: 1px;
     padding-right: 1px;
-    background-color:#363636 ;
+    background-color:#1E8449 ;
     color: white;
     font-family: 'Times New Roman', Helvetica, sans-serif;
     
 }
+
+.abs-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+  }
+  
+  .letras {
+    color: yellow;
+  }
+ 
